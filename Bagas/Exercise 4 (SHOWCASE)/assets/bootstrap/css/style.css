@@ -1,0 +1,38 @@
+footer {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.bg_nav {
+	background-color: #2A1F85;
+	opacity: 0.8;
+}
+.bg_container {
+background-image: url('../../bg.jpg');
+height: 655px;
+padding-top: 250px;
+}
+.tinggi {
+			height: 200px;
+}
+.bg_button {
+	background-color: #E06FC9;
+	border-color: #E51DF0;
+
+}
+.bg_fot {
+	background-color: #2A1F85;
+	opacity: 0.8;
+}
+.container_padding {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.container_padding {
+	margin: 5px auto;
+    padding: 0;
+}
+.container_padding li {
+	display: inline;
+    margin-left: 15px;
+    margin-right: 15px;
+}
