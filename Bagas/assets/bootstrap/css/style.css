@@ -1,0 +1,10 @@
+.jbg {
+	background: url(../../bg.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	height: 650px;
+	padding: 240px 50px 100px 50px;
+}
+.sizeft {
+	font-size: 40px;
+}
